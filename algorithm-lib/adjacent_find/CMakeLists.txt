@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(adjacentFind)
+add_executable(Find_Valid_Pair_of_Adjacent_Digits_in_String Find_Valid_Pair_of_Adjacent_Digits_in_String.cpp)
+add_executable(Special_Array_I Special_Array_I.cpp)
+

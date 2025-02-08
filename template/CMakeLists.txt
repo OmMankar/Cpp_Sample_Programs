@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16)
+project(template)
+add_executable( overloading_template overloading_template.cpp)
+add_executable( overriding_template overriding_template.cpp)
+add_executable( template_class template_class.cpp)
+add_executable(two_generic two_generic.cpp)
+add_executable(using_standar_paramter_with_template_fn using_standar_paramter_with_template_fn.cpp)

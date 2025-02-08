@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.16)
+project(multitreading)
+add_executable(Neighboring_Bitwise_XOR Neighboring_Bitwise_XOR.cpp)

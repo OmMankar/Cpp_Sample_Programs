@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.16)
+project(search)
+add_executable(Count_Prefix_and_Suffix_Pairs_I Count_Prefix_and_Suffix_Pairs_I.cpp)

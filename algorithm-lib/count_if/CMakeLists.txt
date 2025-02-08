@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.16)
+project(coutn_if)
+add_executable(Construct_K_Palindrome_Strings Construct_K_Palindrome_Strings.cpp)
+add_executable(Counting_Words_With_a_Given_Prefix Counting_Words_With_a_Given_Prefix.cpp)

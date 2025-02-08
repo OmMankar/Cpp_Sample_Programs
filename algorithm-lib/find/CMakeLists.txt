@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.16)
+project(find)
+add_executable(String_Matching_in_an_Array String_Matching_in_an_Array.cpp)
