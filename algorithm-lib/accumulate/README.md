@@ -1,0 +1,1 @@
+used accumalte function for multiplication of last k numbers ==>> "./Product_of_the_Last_K_Numbers.cpp" 
