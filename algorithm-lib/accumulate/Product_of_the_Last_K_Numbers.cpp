@@ -33,3 +33,6 @@ class ProductOfNumbers {
      * obj->add(num);
      * int param_2 = obj->getProduct(k);
      */
+    int main(){
+        return 0;
+    }

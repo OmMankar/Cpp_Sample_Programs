@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.16)
+project(accumulate)
+add_executable(Product_of_the_Last_K_Numbers Product_of_the_Last_K_Numbers.cpp)
