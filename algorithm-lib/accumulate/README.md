@@ -1,2 +1,2 @@
 # Self Learning
-1. Used ```accumalte``` function for multiplication of last k numbers ==> "[Product_of_the_Last_K_Numbers.cpp](https://github.com/OmMankar/Cpp_Sample_Programs/blob/main/algorithm-lib/accumulate/Product_of_the_Last_K_Numbers.cpp)
+1. Used ```accumalte``` function for multiplication of last k numbers ==> [Product_of_the_Last_K_Numbers.cpp](https://github.com/OmMankar/Cpp_Sample_Programs/blob/main/algorithm-lib/accumulate/Product_of_the_Last_K_Numbers.cpp)
